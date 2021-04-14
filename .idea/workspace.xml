@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1464880-0929-433f-b97f-db6c378f8016" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/appiumscripts/day06/SampleScriptsNavigtaion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/appiumscripts/day15/Demo15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,11 +30,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day06/SampleScriptsNavigtaion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="37" column="15" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="41" selection-end-column="13" />
+            <state relative-caret-position="75">
+              <caret line="18" column="16" selection-start-line="13" selection-start-column="3" selection-end-line="51" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day15/Demo15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,15 +115,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/7.3.0/java-client-7.3.0-sources.jar!/io/appium/java_client/MobileElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day05/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
@@ -168,6 +170,7 @@
         <option value="$PROJECT_DIR$/src/test/java/appiumscripts/day05/Demo.java" />
         <option value="$PROJECT_DIR$/src/test/java/appiumscripts/day01/FirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/appiumscripts/day06/SampleScriptsNavigtaion.java" />
+        <option value="$PROJECT_DIR$/src/test/java/appiumscripts/day15/Demo15.java" />
       </list>
     </option>
   </component>
@@ -178,7 +181,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
@@ -234,6 +237,15 @@
               <item name="appiumscripts" type="462c0819:PsiDirectoryNode" />
               <item name="day06" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="demoappiumproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demoappiumproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="appiumscripts" type="462c0819:PsiDirectoryNode" />
+              <item name="day15" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -256,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SampleScriptsNavigtaion.testSampleNavigation">
+  <component name="RunManager" selected="TestNG.Demo15.testSampleNavigation (1)">
     <configuration name="Demo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demoappiumproject" />
       <extension name="coverage">
@@ -274,6 +286,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo15.testSampleNavigation (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoappiumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appiumscripts.day15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appiumscripts.day15" />
+      <option name="MAIN_CLASS_NAME" value="appiumscripts.day15.Demo15" />
+      <option name="METHOD_NAME" value="testSampleNavigation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo15.testSampleNavigation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoappiumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appiumscripts.day15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appiumscripts.day15" />
+      <option name="MAIN_CLASS_NAME" value="appiumscripts.day15.Demo15" />
+      <option name="METHOD_NAME" value="testSampleNavigation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FirstTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demoappiumproject" />
       <extension name="coverage">
@@ -284,40 +332,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="appiumscripts.day01" />
       <option name="MAIN_CLASS_NAME" value="appiumscripts.day01.FirstTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Implementation" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demoappiumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="appiumscripts.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="appiumscripts.day02" />
-      <option name="MAIN_CLASS_NAME" value="appiumscripts.day02.Implementation" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Location" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demoappiumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="appiumscripts.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="appiumscripts.day02" />
-      <option name="MAIN_CLASS_NAME" value="appiumscripts.day02.Location" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -345,11 +359,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Demo15.testSampleNavigation (1)" />
+        <item itemvalue="TestNG.Demo15.testSampleNavigation" />
         <item itemvalue="TestNG.SampleScriptsNavigtaion.testSampleNavigation" />
         <item itemvalue="TestNG.FirstTest" />
         <item itemvalue="TestNG.Demo" />
-        <item itemvalue="TestNG.Location" />
-        <item itemvalue="TestNG.Implementation" />
       </list>
     </recent_temporary>
   </component>
@@ -367,24 +381,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Location - 2021.04.05 at 04h 11m 19s.xml">
-      <configuration name="Location" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Demo - 2021.04.08 at 16h 42m 45s.xml">
-      <configuration name="Demo" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirstTest - 2021.04.08 at 16h 47m 17s.xml">
-      <configuration name="FirstTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirstTest - 2021.04.08 at 16h 53m 53s.xml">
-      <configuration name="FirstTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SampleScriptsNavigtaion_testSampleNavigation - 2021.04.12 at 17h 04m 51s.xml">
-      <configuration name="SampleScriptsNavigtaion.testSampleNavigation" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SampleScriptsNavigtaion_testSampleNavigation - 2021.04.12 at 17h 13m 36s.xml">
-      <configuration name="SampleScriptsNavigtaion.testSampleNavigation" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="SampleScriptsNavigtaion_testSampleNavigation - 2021.04.12 at 17h 14m 30s.xml">
       <configuration name="SampleScriptsNavigtaion.testSampleNavigation" configurationId="TestNG" />
     </history-entry>
@@ -397,11 +393,29 @@
     <history-entry file="SampleScriptsNavigtaion_testSampleNavigation - 2021.04.12 at 17h 22m 32s.xml">
       <configuration name="SampleScriptsNavigtaion.testSampleNavigation" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="Demo15_testSampleNavigation - 2021.04.13 at 16h 36m 17s.xml">
+      <configuration name="Demo15.testSampleNavigation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Demo15_testSampleNavigation - 2021.04.13 at 16h 38m 10s.xml">
+      <configuration name="Demo15.testSampleNavigation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Demo15_testSampleNavigation - 2021.04.13 at 16h 39m 33s.xml">
+      <configuration name="Demo15.testSampleNavigation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Demo15_testSampleNavigation - 2021.04.13 at 16h 54m 25s.xml">
+      <configuration name="Demo15.testSampleNavigation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Demo15_testSampleNavigation - 2021.04.13 at 16h 55m 58s.xml">
+      <configuration name="Demo15.testSampleNavigation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Demo15_testSampleNavigation_(1) - 2021.04.13 at 17h 04m 34s.xml">
+      <configuration name="Demo15.testSampleNavigation (1)" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20743243" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15810812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -412,12 +426,12 @@
       <window_info id="Job Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.48680353" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.52052784" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.055718474" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3739003" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Anonymous Apex" order="10" />
@@ -607,8 +621,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day06/SampleScriptsNavigtaion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="37" column="15" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="41" selection-end-column="13" />
+        <state relative-caret-position="75">
+          <caret line="18" column="16" selection-start-line="13" selection-start-column="3" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day15/Demo15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
