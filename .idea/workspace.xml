@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1464880-0929-433f-b97f-db6c378f8016" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/appiumscripts/day20/DemoClass20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/appiumscripts/day20/LoginFlowClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/appiumscripts/day21/Flow2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,18 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day16/TapActionDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day16/TapActionDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,11 +87,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day20/LoginFlowClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+            <state relative-caret-position="70">
+              <caret line="17" column="16" selection-start-line="15" selection-start-column="7" selection-end-line="28" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day21/Flow2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="70" column="44" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -180,6 +179,8 @@
         <option value="$PROJECT_DIR$/src/test/java/appiumscripts/day19/VerticalSwipeOverview.java" />
         <option value="$PROJECT_DIR$/src/test/java/appiumscripts/day20/DemoClass20.java" />
         <option value="$PROJECT_DIR$/src/test/java/appiumscripts/day20/LoginFlowClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/appiumscripts/day21/FlowClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/appiumscripts/day21/Flow2.java" />
       </list>
     </option>
   </component>
@@ -245,7 +246,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="appiumscripts" type="462c0819:PsiDirectoryNode" />
-              <item name="day19" type="462c0819:PsiDirectoryNode" />
+              <item name="day20" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demoappiumproject" type="b2602c69:ProjectViewProjectNode" />
@@ -254,7 +255,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="appiumscripts" type="462c0819:PsiDirectoryNode" />
-              <item name="day20" type="462c0819:PsiDirectoryNode" />
+              <item name="day21" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -282,25 +283,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginFlowClass.loginFlow">
-    <configuration name="DemoClass18.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demoappiumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="appiumscripts.day18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="appiumscripts.day18" />
-      <option name="MAIN_CLASS_NAME" value="appiumscripts.day18.DemoClass18" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Flow2.flow2">
     <configuration name="DemoClass20.demoClassFlow" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demoappiumproject" />
       <extension name="coverage">
@@ -312,6 +295,60 @@
       <option name="PACKAGE_NAME" value="appiumscripts.day20" />
       <option name="MAIN_CLASS_NAME" value="appiumscripts.day20.DemoClass20" />
       <option name="METHOD_NAME" value="demoClassFlow" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Flow2.flow2 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoappiumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appiumscripts.day21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appiumscripts.day21" />
+      <option name="MAIN_CLASS_NAME" value="appiumscripts.day21.Flow2" />
+      <option name="METHOD_NAME" value="flow2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Flow2.flow2 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoappiumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appiumscripts.day21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appiumscripts.day21" />
+      <option name="MAIN_CLASS_NAME" value="appiumscripts.day21.Flow2" />
+      <option name="METHOD_NAME" value="flow2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Flow2.flow2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoappiumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appiumscripts.day21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appiumscripts.day21" />
+      <option name="MAIN_CLASS_NAME" value="appiumscripts.day21.Flow2" />
+      <option name="METHOD_NAME" value="flow2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -337,49 +374,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerticalSwipeOverview.verticalSwipeDemo (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demoappiumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="appiumscripts.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="appiumscripts.day19" />
-      <option name="MAIN_CLASS_NAME" value="appiumscripts.day19.VerticalSwipeOverview" />
-      <option name="METHOD_NAME" value="verticalSwipeDemo" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VerticalSwipeOverview.verticalSwipeDemo" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demoappiumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="appiumscripts.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="appiumscripts.day19" />
-      <option name="MAIN_CLASS_NAME" value="appiumscripts.day19.VerticalSwipeOverview" />
-      <option name="METHOD_NAME" value="verticalSwipeDemo" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Flow2.flow2" />
+        <item itemvalue="TestNG.Flow2.flow2 (2)" />
+        <item itemvalue="TestNG.Flow2.flow2 (1)" />
         <item itemvalue="TestNG.LoginFlowClass.loginFlow" />
         <item itemvalue="TestNG.DemoClass20.demoClassFlow" />
-        <item itemvalue="TestNG.VerticalSwipeOverview.verticalSwipeDemo (1)" />
-        <item itemvalue="TestNG.VerticalSwipeOverview.verticalSwipeDemo" />
-        <item itemvalue="TestNG.DemoClass18.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -397,35 +398,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DemoClass18_test1 - 2021.04.16 at 17h 13m 39s.xml">
-      <configuration name="DemoClass18.test1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DemoClass18_test1 - 2021.04.16 at 17h 14m 17s.xml">
-      <configuration name="DemoClass18.test1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="VerticalSwipeOverview_verticalSwipeDemo - 2021.04.19 at 16h 46m 12s.xml">
-      <configuration name="VerticalSwipeOverview.verticalSwipeDemo" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="VerticalSwipeOverview_verticalSwipeDemo_(1) - 2021.04.19 at 17h 01m 56s.xml">
-      <configuration name="VerticalSwipeOverview.verticalSwipeDemo (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DemoClass20_demoClassFlow - 2021.04.20 at 16h 44m 32s.xml">
-      <configuration name="DemoClass20.demoClassFlow" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DemoClass20_demoClassFlow - 2021.04.20 at 16h 45m 29s.xml">
-      <configuration name="DemoClass20.demoClassFlow" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DemoClass20_demoClassFlow - 2021.04.20 at 16h 46m 29s.xml">
-      <configuration name="DemoClass20.demoClassFlow" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DemoClass20_demoClassFlow - 2021.04.20 at 16h 47m 44s.xml">
-      <configuration name="DemoClass20.demoClassFlow" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="DemoClass20_demoClassFlow - 2021.04.20 at 16h 48m 40s.xml">
       <configuration name="DemoClass20.demoClassFlow" configurationId="TestNG" />
     </history-entry>
     <history-entry file="DemoClass20_demoClassFlow - 2021.04.20 at 16h 49m 26s.xml">
       <configuration name="DemoClass20.demoClassFlow" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginFlowClass_loginFlow - 2021.04.20 at 17h 04m 15s.xml">
+      <configuration name="LoginFlowClass.loginFlow" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginFlowClass_loginFlow - 2021.04.20 at 17h 05m 06s.xml">
+      <configuration name="LoginFlowClass.loginFlow" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Flow2_flow2 - 2021.04.21 at 16h 48m 53s.xml">
+      <configuration name="Flow2.flow2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Flow2_flow2_(1) - 2021.04.21 at 16h 49m 40s.xml">
+      <configuration name="Flow2.flow2 (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Flow2_flow2 - 2021.04.21 at 16h 50m 33s.xml">
+      <configuration name="Flow2.flow2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Flow2_flow2 - 2021.04.21 at 16h 59m 55s.xml">
+      <configuration name="Flow2.flow2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Flow2_flow2_(2) - 2021.04.21 at 17h 06m 18s.xml">
+      <configuration name="Flow2.flow2 (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Flow2_flow2 - 2021.04.21 at 17h 09m 38s.xml">
+      <configuration name="Flow2.flow2" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -441,7 +442,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24121621" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18445946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -452,12 +453,12 @@
       <window_info id="Job Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.11583578" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21847507" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32991204" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.12756598" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29178885" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Anonymous Apex" order="10" />
@@ -762,10 +763,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day21/FlowClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day20/LoginFlowClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+        <state relative-caret-position="70">
+          <caret line="17" column="16" selection-start-line="15" selection-start-column="7" selection-end-line="28" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day21/Flow2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="70" column="44" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
