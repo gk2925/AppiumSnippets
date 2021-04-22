@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1464880-0929-433f-b97f-db6c378f8016" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/appiumscripts/day21/Flow2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/appiumscripts/day22/day22.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,18 +19,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day16/TapActionDemo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="26" column="42" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day17/PressOperationDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="211">
@@ -46,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day17/LongPressOperationDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="47" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="56" selection-end-column="5" />
+              <caret line="47" selection-start-line="33" selection-start-column="2" selection-end-line="56" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -55,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day18/DemoClass18.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="94">
-              <caret line="48" column="38" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="57" />
+              <caret line="48" column="38" selection-start-line="31" selection-start-column="6" selection-end-line="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day19/VerticalSwipeOverview.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="182">
-              <caret line="53" column="74" lean-forward="true" selection-start-line="53" selection-start-column="66" selection-end-line="53" selection-end-column="86" />
+              <caret line="53" column="74" selection-start-line="53" selection-start-column="66" selection-end-line="53" selection-end-column="86" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day20/DemoClass20.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="111">
-              <caret line="30" column="21" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="32" selection-end-column="84" />
+              <caret line="30" column="21" selection-start-line="18" selection-start-column="7" selection-end-line="32" selection-end-column="84" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,8 +78,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day20/LoginFlowClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="17" column="16" selection-start-line="15" selection-start-column="7" selection-end-line="28" selection-end-column="70" />
+            <state relative-caret-position="220">
+              <caret line="23" selection-start-line="22" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day21/Flow2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="30" column="57" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,10 +100,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day21/Flow2.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day22/day22.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="70" column="44" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
+            <state relative-caret-position="226">
+              <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day17/SpinnerDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
-              <caret line="36" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="53" selection-end-column="30" />
+              <caret line="36" selection-start-line="18" selection-start-column="7" selection-end-line="53" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -181,6 +181,8 @@
         <option value="$PROJECT_DIR$/src/test/java/appiumscripts/day20/LoginFlowClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/appiumscripts/day21/FlowClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/appiumscripts/day21/Flow2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/appiumscripts/day22.java" />
+        <option value="$PROJECT_DIR$/src/test/java/appiumscripts/day22/day22.java" />
       </list>
     </option>
   </component>
@@ -192,10 +194,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="125" />
-    <option name="width" value="1440" />
-    <option name="height" value="775" />
+    <option name="x" value="-9" />
+    <option name="width" value="1935" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -246,16 +247,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="appiumscripts" type="462c0819:PsiDirectoryNode" />
-              <item name="day20" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demoappiumproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demoappiumproject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="appiumscripts" type="462c0819:PsiDirectoryNode" />
-              <item name="day21" type="462c0819:PsiDirectoryNode" />
+              <item name="day22" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -283,25 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Flow2.flow2">
-    <configuration name="DemoClass20.demoClassFlow" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demoappiumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="appiumscripts.day20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="appiumscripts.day20" />
-      <option name="MAIN_CLASS_NAME" value="appiumscripts.day20.DemoClass20" />
-      <option name="METHOD_NAME" value="demoClassFlow" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.day22.hostelSearch">
     <configuration name="Flow2.flow2 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demoappiumproject" />
       <extension name="coverage">
@@ -356,17 +330,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginFlowClass.loginFlow" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="day22.hostelSearch (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demoappiumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="appiumscripts.day20.*" />
+          <option name="PATTERN" value="appiumscripts.day22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="appiumscripts.day20" />
-      <option name="MAIN_CLASS_NAME" value="appiumscripts.day20.LoginFlowClass" />
-      <option name="METHOD_NAME" value="loginFlow" />
+      <option name="PACKAGE_NAME" value="appiumscripts.day22" />
+      <option name="MAIN_CLASS_NAME" value="appiumscripts.day22.day22" />
+      <option name="METHOD_NAME" value="hostelSearch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day22.hostelSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoappiumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appiumscripts.day22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appiumscripts.day22" />
+      <option name="MAIN_CLASS_NAME" value="appiumscripts.day22.day22" />
+      <option name="METHOD_NAME" value="hostelSearch" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -376,11 +368,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.day22.hostelSearch" />
+        <item itemvalue="TestNG.day22.hostelSearch (1)" />
         <item itemvalue="TestNG.Flow2.flow2" />
         <item itemvalue="TestNG.Flow2.flow2 (2)" />
         <item itemvalue="TestNG.Flow2.flow2 (1)" />
-        <item itemvalue="TestNG.LoginFlowClass.loginFlow" />
-        <item itemvalue="TestNG.DemoClass20.demoClassFlow" />
       </list>
     </recent_temporary>
   </component>
@@ -398,24 +390,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DemoClass20_demoClassFlow - 2021.04.20 at 16h 48m 40s.xml">
-      <configuration name="DemoClass20.demoClassFlow" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DemoClass20_demoClassFlow - 2021.04.20 at 16h 49m 26s.xml">
-      <configuration name="DemoClass20.demoClassFlow" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginFlowClass_loginFlow - 2021.04.20 at 17h 04m 15s.xml">
-      <configuration name="LoginFlowClass.loginFlow" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginFlowClass_loginFlow - 2021.04.20 at 17h 05m 06s.xml">
-      <configuration name="LoginFlowClass.loginFlow" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Flow2_flow2 - 2021.04.21 at 16h 48m 53s.xml">
-      <configuration name="Flow2.flow2" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Flow2_flow2_(1) - 2021.04.21 at 16h 49m 40s.xml">
-      <configuration name="Flow2.flow2 (1)" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="Flow2_flow2 - 2021.04.21 at 16h 50m 33s.xml">
       <configuration name="Flow2.flow2" configurationId="TestNG" />
     </history-entry>
@@ -427,6 +401,24 @@
     </history-entry>
     <history-entry file="Flow2_flow2 - 2021.04.21 at 17h 09m 38s.xml">
       <configuration name="Flow2.flow2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Flow2_flow2 - 2021.04.21 at 17h 14m 02s.xml">
+      <configuration name="Flow2.flow2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="day22_hostelSearch - 2021.04.22 at 16h 43m 21s.xml">
+      <configuration name="day22.hostelSearch" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="day22_hostelSearch - 2021.04.22 at 16h 48m 28s.xml">
+      <configuration name="day22.hostelSearch" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="day22_hostelSearch - 2021.04.22 at 16h 52m 56s.xml">
+      <configuration name="day22.hostelSearch" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="day22_hostelSearch - 2021.04.22 at 16h 53m 57s.xml">
+      <configuration name="day22.hostelSearch" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="day22_hostelSearch_(1) - 2021.04.22 at 16h 54m 42s.xml">
+      <configuration name="day22.hostelSearch (1)" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -453,7 +445,7 @@
       <window_info id="Job Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21847507" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3929619" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -709,7 +701,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day17/LongPressOperationDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="47" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="56" selection-end-column="5" />
+          <caret line="47" selection-start-line="33" selection-start-column="2" selection-end-line="56" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -726,7 +718,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day17/SpinnerDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
-          <caret line="36" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="53" selection-end-column="30" />
+          <caret line="36" selection-start-line="18" selection-start-column="7" selection-end-line="53" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -736,7 +728,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day18/DemoClass18.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
-          <caret line="48" column="38" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="57" />
+          <caret line="48" column="38" selection-start-line="31" selection-start-column="6" selection-end-line="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -746,17 +738,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day19/VerticalSwipeOverview.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
-          <caret line="53" column="74" lean-forward="true" selection-start-line="53" selection-start-column="66" selection-end-line="53" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day20/DemoClass20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="30" column="21" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="32" selection-end-column="84" />
+          <caret line="53" column="74" selection-start-line="53" selection-start-column="66" selection-end-line="53" selection-end-column="86" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -772,8 +754,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day20/LoginFlowClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="17" column="16" selection-start-line="15" selection-start-column="7" selection-end-line="28" selection-end-column="70" />
+        <state relative-caret-position="220">
+          <caret line="23" selection-start-line="22" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day20/DemoClass20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="30" column="21" selection-start-line="18" selection-start-column="7" selection-end-line="32" selection-end-column="84" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -782,8 +774,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day21/Flow2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="70" column="44" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
+        <state relative-caret-position="145">
+          <caret line="30" column="57" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/appiumscripts/day22/day22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
